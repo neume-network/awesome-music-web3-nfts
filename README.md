@@ -3,7 +3,7 @@ A awesome list of resources related to music, web3 &amp; NFT tech
 
 **Contributing:**
 
-- Open a PR and 
+- Open a PR to add your links.
 
 ## Tech
 
