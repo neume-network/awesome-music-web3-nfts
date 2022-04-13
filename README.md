@@ -16,3 +16,5 @@ A awesome list of resources related to music, web3 &amp; NFT tech
 ## Standards
 
 - [KORD Network docs (discontinued)](https://github.com/kord-network/docs)
+- [Catalog Music NFT Metadata Proposal](https://www.notion.so/Music-NFT-Metadata-Proposal-98871dbe2d934890a36322c638b7b6cc)
+
