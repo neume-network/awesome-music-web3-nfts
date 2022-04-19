@@ -33,7 +33,7 @@ Secondary
 - [Opensea](https://opensea.io/)
 - [Zora](https://zora.co/)
 - [Rarible](https://rarible.com/)
-- [Foundation](https://foundation.app/_
+- [Foundation](https://foundation.app/)
 - [Nifty Gateway](https://niftygateway.com/)
 
 
