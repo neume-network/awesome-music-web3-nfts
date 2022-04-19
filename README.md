@@ -22,6 +22,7 @@ Primary
 - [Royal](https://royal.io/); Ethereum
 - [Decent](https://beta.decent.xyz/); Ethereum
 - [Arpeggi](https://www.arpeggi.io/); Ethereum
+- [Glass](https://glass.xyz/); Ethereum
 - [Pianity](https://pianity.com/); Arweave
 - [Noizd](https://noizd.com/); Ethereum
 - [OneOf](https://www.oneof.com/); Tezos
@@ -35,6 +36,7 @@ Secondary
 - [Rarible](https://rarible.com/)
 - [Foundation](https://foundation.app/)
 - [Nifty Gateway](https://niftygateway.com/)
+- [Supa Rare](https://superrare.com/)
 
 
 ## Projects
@@ -57,6 +59,7 @@ Secondary
 - [DDEX](https://ddex.net/standards/)
 - [KORD Network docs (discontinued)](https://github.com/kord-network/docs)
 - [Catalog Music NFT Metadata Proposal](https://www.notion.so/Music-NFT-Metadata-Proposal-98871dbe2d934890a36322c638b7b6cc)
+- [Music NFTs Metadata Standards, Ethereum Magicians](https://www.nftstandards.wtf/Music+NFT/Music+NFT+Metadata)
 - [CoalaIP](https://github.com/COALAIP/specs)
 - [Copyrightly](https://github.com/rhizomik/copyrightly/wiki#features-and-specifications)
 
