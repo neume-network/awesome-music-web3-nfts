@@ -22,6 +22,8 @@ Primary
 - [Royal](https://royal.io/); Ethereum
 - [Decent](https://beta.decent.xyz/); Ethereum
 - [Arpeggi](https://www.arpeggi.io/); Ethereum
+- [Beat Foundry](https://beatfoundry.xyz/); Ethereum
+- [Heads Tape](https://heds.io/); Ethereum
 - [Glass](https://glass.xyz/); Ethereum
 - [Pianity](https://pianity.com/); Arweave
 - [Noizd](https://noizd.com/); Ethereum
