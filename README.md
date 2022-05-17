@@ -13,6 +13,11 @@ A awesome list of resources related to music, web3 &amp; NFT tech
 
 - [Spinamp Indexer OpenAPI](https://open-api.spinamp.xyz/graphiql)
 
+## Blogs
+
+- [The Liminal Space](https://danfowler.substack.com/)
+- [Scarce Objects](https://scarceobjects.substack.com/)
+
 ## Sources
 
 Primary
