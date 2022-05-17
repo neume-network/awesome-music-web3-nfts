@@ -9,6 +9,9 @@ A awesome list of resources related to music, web3 &amp; NFT tech
 
 - [Spinamp Web3 Subgraph](https://github.com/spinamp/web3-music-subgraph)
 
+## API Services
+
+- [Spinamp Indexer OpenAPI](https://open-api.spinamp.xyz/graphiql)
 
 ## Sources
 
