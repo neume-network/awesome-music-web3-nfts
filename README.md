@@ -61,8 +61,7 @@ Secondary
 - [sone](http://sone.works/)
 - [Reveel](https://www.reveel.id/)
 - [Tellie](https://join.tell.ie/)
-
-
+- [Sleevenote](https://sleevenote.com/)
 
 ## Standards
 
