@@ -38,7 +38,7 @@ Primary
 - [OneOf](https://www.oneof.com/); Tezos
 - [RCRDSHP](https://app.rcrdshp.com/); Flow
 - [Melos](https://melos.studio/); cross-chain
-- [DNS.xyz](https://dns.xyz/); Tezos
+- [DNS.xyz](https://dns.xyz/); Ethereum Polygon Tezos
 
 Secondary
 
