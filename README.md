@@ -15,6 +15,7 @@ A awesome list of resources related to music, web3 &amp; NFT tech
 
 ## Blogs
 
+- [Tim's website](https://timdaub.github.io/)
 - [The Liminal Space](https://danfowler.substack.com/)
 - [Scarce Objects](https://scarceobjects.substack.com/)
 
