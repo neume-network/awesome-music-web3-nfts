@@ -7,7 +7,7 @@ A awesome list of resources related to music, web3 &amp; NFT tech
 
 ## Tech
 
-- [Spinamp Web3 Subgraph](https://github.com/spinamp/web3-music-subgraph)
+- [Spinamp Developer Suite](https://dev.spinamp.xyz/)
 
 ## API Services
 
@@ -40,6 +40,7 @@ Primary
 - [RCRDSHP](https://app.rcrdshp.com/); Flow
 - [Melos](https://melos.studio/); cross-chain
 - [DNS.xyz](https://dns.xyz/); Ethereum Polygon Tezos
+- [alive.house](https://alive.house/)
 
 Secondary
 
@@ -64,6 +65,7 @@ Secondary
 - [Reveel](https://www.reveel.id/)
 - [Tellie](https://join.tell.ie/)
 - [Sleevenote](https://sleevenote.com/)
+- [SUPERCOLLECTOR](https://supercollector.xyz/): Lists music NFTs by address
 
 ## Standards
 
