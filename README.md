@@ -27,8 +27,8 @@ Primary
 - [Sound](https://sound.xyz/); Ethereum
 - [Mint Songs](https://www.mintsongs.com/); Polygon
 - [Nina](https://www.ninaprotocol.com/); Solana
-- [Manifold](https://www.manifold.xyz/); Ethereum/Polygon
-- [Royal](https://royal.io/); Ethereum
+- [Manifold](https://www.manifold.xyz/); Ethereum
+- [Royal](https://royal.io/); Ethereum/Polygon
 - [Decent](https://beta.decent.xyz/); Ethereum
 - [Arpeggi](https://www.arpeggi.io/); Ethereum
 - [Beat Foundry](https://beatfoundry.xyz/); Ethereum
