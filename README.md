@@ -66,6 +66,7 @@ Secondary
 - [Tellie](https://join.tell.ie/)
 - [Sleevenote](https://sleevenote.com/)
 - [SUPERCOLLECTOR](https://supercollector.xyz/): Lists music NFTs by address
+- [No Stairs Please](https://nostairsplease.com/): Directory and remote [MCP server](https://nostairsplease.com/mcp) for small live-music venues across all 50 US states, DC, and BC.
 
 ## Standards
 
